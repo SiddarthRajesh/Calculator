@@ -50,6 +50,7 @@ button:hover{
 }
 button:active{
     background-color: hsl(0, 0%, 50%);
+    transform: scale(0.8);
 }
 .operator-btn{
     background-color: hsl(39, 100%, 50%);
